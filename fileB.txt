@@ -1,1 +1,3 @@
 Adding feature 2 in the branch
+
+Now adding feature 3
